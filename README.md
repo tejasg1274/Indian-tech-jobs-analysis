@@ -50,22 +50,34 @@ The insights from this analysis can help job seekers understand the opportunitie
 ## Tools & Technologies
 
 | Microsoft Excel
+
 | Python
+
 | Pandas
+
 | Matplotlib / Seaborn
+
 | MySQL
+
 | Power BI
+
 | Git & GitHub
 
 
 ## Project Workflow
 
 1. **Data Inspection:** Examined the dataset structure, columns, and data quality to understand the job posting data.
+
 2. **Data Cleaning:** Cleaned and prepared the job posting data in Excel to improve data quality and consistency.
+
 3. **Exploratory Data Analysis:** Used Python and Pandas to explore job demand, salary patterns, experience requirements, and other job market characteristics.
+
 4. **Data Import into MySQL:** Used Python to import the cleaned Excel dataset into a MySQL database for structured data storage and further analysis.
+
 5. **SQL Analysis:** Used SQL queries to analyze job postings, compare job categories, and answer relevant questions.
+
 6. **Dashboard Development:** Imported the cleaned Excel dataset into Power BI and developed an interactive dashboard to visualize key metrics, job demand, salary patterns, company sizes, and work mode distribution.
+
 7. **Documentation:** Organized project files and documented the analytical workflow, objectives, and findings for portfolio presentation.
 
 
