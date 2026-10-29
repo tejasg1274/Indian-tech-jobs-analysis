@@ -1,6 +1,6 @@
 # Title: Indian-Tech-Jobs-Analysis
 
-## Project Overview
+<h2><u>Project Overview</u></h2>
 
 1. This project focuses on analyzing the Indian technology job market using Excel, Python, MySQL, and Power BI.
 
