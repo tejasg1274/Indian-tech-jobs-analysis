@@ -102,12 +102,19 @@ Based on the Power BI dashboard analysis, the following findings were observed:
 Based on the dashboard analysis, the following recommendations can be considered:
 
 1. **Role-Based Career Planning:** Data Scientist and Data Analyst roles have a high number of postings in the dataset. Job seekers can explore these roles and compare their required skills and experience before choosing a career path.
+
 2. **Location-Based Job Search:** Use the Top 10 Cities analysis to identify locations with more job postings and prioritize job searches according to location preferences and relocation options.  
+
 3. **Salary Comparison:** Compare average salary midpoint values across job roles to understand the salary differences between technology careers. Verify salary ranges and experience requirements before making career decisions.
+
 4. **Work Mode Planning:** Since on-site jobs represent approximately 81.3% of the postings, job seekers should consider on-site opportunities alongside hybrid and remote roles rather than focusing exclusively on remote jobs.
+
 5. **Fresher Opportunity Assessment:** Use the fresher-friendly classification and experience-level filters to identify potentially suitable entry-level opportunities. Review each job description to confirm its actual eligibility criteria.
+
 6. **Experience-Based Job Search:** Use the experience-level distribution to understand the types of candidates represented in the dataset and filter opportunities according to individual experience and qualifications.
+
 7. **Company Research:** Use the company size distribution and available company information to explore employers that match individual career goals, preferred work environments, and growth expectations.
+
 8. **Data-Driven Career Decisions:** Combine job demand, salary, location, work mode, and experience information when evaluating career opportunities instead of relying on a single metric.
 
 
