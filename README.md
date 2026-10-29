@@ -9,7 +9,7 @@
 3. The project follows an end-to-end data analytics workflow, from data cleaning and exploratory analysis to SQL-based data analysis and interactive dashboard development.
 
 
-## Problem
+## Problem -
 
 The Indian technology job market offers opportunities across different job roles, cities, company sizes, and experience levels. However, understanding job demand, salary differences, work arrangements, and opportunities for freshers can be challenging when dealing with a large volume of job postings.
 
@@ -27,7 +27,7 @@ The analysis aims to address the following questions:
 The insights from this analysis can help job seekers understand the opportunities represented in the dataset and make more informed decisions about role selection, location preferences, salary expectations, and career planning.
 
 
-## Project Objectives
+## Project Objectives -
 
 - Clean and prepare job posting data to ensure data quality and consistency.
 - Perform exploratory data analysis to understand job market patterns and trends.
@@ -41,13 +41,13 @@ The insights from this analysis can help job seekers understand the opportunitie
 - Generate meaningful, data-driven insights to help job seekers understand opportunities in the Indian technology job market.
 
 
-### Dataset Source
+### Dataset Source - 
 
 - **Dataset Name:** Indian tech job analysis Dataset
 - **Source:** https://github.com/tejasg1274/Indian-tech-job-analysis/blob/main/Dataset/Raw_data.csv
 
 
-## Tools & Technologies
+## Tools & Technologies - 
 
 | Microsoft Excel
 
@@ -64,7 +64,7 @@ The insights from this analysis can help job seekers understand the opportunitie
 | Git & GitHub
 
 
-## Project Workflow
+## Project Workflow - 
 
 1. **Data Inspection:** Examined the dataset structure, columns, and data quality to understand the job posting data.
 
@@ -81,14 +81,14 @@ The insights from this analysis can help job seekers understand the opportunitie
 7. **Documentation:** Organized project files and documented the analytical workflow, objectives, and findings for portfolio presentation.
 
 
-### Dashboard Preview
+### Dashboard Preview -
 
 ![Dashboard Preview](https://github.com/tejasg1274/Indian-tech-job-analysis/blob/main/Images/Indian%20tech%20jobs%20analysis%20IMG.jpg)
 
 **Interactive Report:** Open `PowerBI/PowerBI_Dashboard.pbix` in Power BI Desktop to explore the report.
 
 
-## Key Findings
+## Key Findings -
 
 Based on the Power BI dashboard analysis, the following findings were observed:
 
@@ -109,7 +109,7 @@ Based on the Power BI dashboard analysis, the following findings were observed:
 8. **Fresher-Friendly Opportunities:** The dashboard includes a fresher-friendly filter to examine job postings classified as suitable for freshers.
 
 
-## Recommendations
+## Recommendations - 
 
 Based on the dashboard analysis, the following recommendations can be considered:
 
@@ -130,7 +130,7 @@ Based on the dashboard analysis, the following recommendations can be considered
 8. **Data-Driven Career Decisions:** Combine job demand, salary, location, work mode, and experience information when evaluating career opportunities instead of relying on a single metric.
 
 
-## Project Structure
+## Project Structure -
 
 ```text
 Indian-tech-jobs-analysis/
@@ -154,7 +154,7 @@ Indian-tech-jobs-analysis/
 ```
 
 
-## Skills Demonstrated
+## Skills Demonstrated - 
 
 - Data Cleaning and Preparation
 - Exploratory Data Analysis (EDA)
@@ -172,7 +172,7 @@ Indian-tech-jobs-analysis/
 - Data Documentation and Presentation
 
 
-## Future Improvements
+## Future Improvements -
 
 - Enhance the job role analysis to compare hiring demand across different technology roles in greater detail.
 - Improve salary analysis by comparing average salary levels across job roles and experience categories.
@@ -185,7 +185,7 @@ Indian-tech-jobs-analysis/
 - Improve dashboard documentation and publish the report through an appropriate Power BI sharing option, subject to access and data permissions.
 
 
-## Author & Contact
+## Author & Contact -
 
 - **LinkedIn:** https://www.linkedin.com/in/tejas-gangapurkar-3b2ab32b2
 - **GitHub:** https://github.com/tejasg1274
